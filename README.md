@@ -205,6 +205,7 @@ Thank you to all the amazing contributors who have helped make this project bett
     <td align="center"><a href="https://github.com/2005Mohammadali"><img src="https://avatars.githubusercontent.com/2005Mohammadali" width="80px;" alt="Mohammadali Shaikh"/></a></td>
     <td align="center"><a href="https://github.com/Varadraj75"><img src="https://avatars.githubusercontent.com/Varadraj75" width="80px;" alt="Varad Raj Agrawal"/></a></td>
     <td align="center"><a href="https://github.com/nikitaaaa123"><img src="https://avatars.githubusercontent.com/nikitaaaa123" width="80px;" alt="Nikita Bhansali"/></a></td>
+    <td align="center"><a href="https://github.com/ShreyaSingh2606"><img src="https://avatars.githubusercontent.com/ShreyaSingh2606" width="80px;" alt="Shreya"/></a></td>
     <td align="center"><a href="https://github.com/JiyaSrivas"><img src="https://avatars.githubusercontent.com/JiyaSrivas" width="80px;" alt="Jiya"/></a></td>
     <td align="center"><a href="https://github.com/rajkumar-131"><img src="https://avatars.githubusercontent.com/rajkumar-131" width="80px;" alt="Raj Kumar"/></a></td>
   </tr>
@@ -212,6 +213,7 @@ Thank you to all the amazing contributors who have helped make this project bett
     <td align="center"><a href="https://github.com/2005Mohammadali"><sub><b>Mohammadali Shaikh</b></sub></a></td>
     <td align="center"><a href="https://github.com/Varadraj75"><sub><b>Varad Raj Agrawal</b></sub></a></td>
     <td align="center"><a href="https://github.com/nikitaaaa123"><sub><b>Nikita Bhansali</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ShreyaSingh2606"><sub><b>Shreya</b></sub></a></td>
     <td align="center"><a href="https://github.com/JiyaSrivas"><sub><b>Jiya</b></sub></a></td>
     <td align="center"><a href="https://github.com/rajkumar-131"><sub><b>Raj Kumar</b></sub></a></td>
   </tr>
