@@ -217,4 +217,10 @@ Thank you to all the amazing contributors who have helped make this project bett
     <td align="center"><a href="https://github.com/JiyaSrivas"><sub><b>Jiya</b></sub></a></td>
     <td align="center"><a href="https://github.com/rajkumar-131"><sub><b>Raj Kumar</b></sub></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nikunj2104"><img src="https://avatars.githubusercontent.com/Nikunj2104" width="80px;" alt="Nikunj Shah"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nikunj2104"><sub><b>Nikunj Shah</b></sub></a></td>
+  </tr>
 </table>
